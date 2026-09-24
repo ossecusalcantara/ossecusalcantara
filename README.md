@@ -1,16 +1,16 @@
-### Hi there 👋
+# Adson Alcântara 👋
 
-<!--
-**ossecusalcantara/ossecusalcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software com 5 anos de experiência, formado em Análise e Desenvolvimento de Sistemas. Tenho vivência prática no desenvolvimento corporativo e interesse em explorar tecnologias descentralizadas e segurança da informação.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Linguagens:** <kbd>PHP</kbd> <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>C</kbd> <kbd>Rust</kbd>
+*   **Bancos de Dados:** <kbd>Oracle DB</kbd> <kbd>SQLite</kbd>
+*   **Ecossistema:** <kbd>TOTVS Protheus</kbd> (<kbd>ADVPL</kbd>, <kbd>TLPP</kbd>)
+*   **Ambiente & Ferramentas:** `Arch Linux` | `Neovim` | `Docker` | `Git`
+
+## ⚙️ Interesses e Estudos Atuais
+
+*   `[sys.web3]` Web3, Blockchain e Criptografia
+*   `[sys.core]` Desenvolvimento de Sistemas Operacionais e Kernel
+*   `[sys.hard]` Sistemas Embarcados e Microcontroladores (ESP32)
