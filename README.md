@@ -1,17 +1,54 @@
-# ♚ Adson Alcântara
+```cpp
+                         .,,uod8B8bou,,.
+              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+         !.......:!?|||||!!^^""'            ||||
+         !.........||||                     ||||
+         !.........||||  ##                 ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         `.........||||                    ,||||
+          .;.......||||               _.-!!|||||
+   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
+!YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+!......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+!........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+`..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+  `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
+    `........::::::::::::::::;iof688888888888888888888b.     `
+      `......:::::::::;iof688888888888888888888888888888b.
+        `....:::;iof688888888888888888888888888888888899fT!
+          `..::!8888888888888888888888888888888899fT|!^"'
+            `' !!988888888888888888888888899fT|!^"'
+                `!!8888888888888888899fT|!^"'
+                  `!988888888899fT|!^"'
+                    `!9899fT|!^"'
+                      `!^"'
 
-Desenvolvedor de Software com 5 anos de experiência, formado em Análise e Desenvolvimento de Sistemas. Tenho vivência prática no desenvolvimento corporativo e interesse em explorar tecnologias descentralizadas e arquitetura interna de sistemas e linguagens.
-
-## ♜ Tecnologias e Ferramentas
-
-*   **♘ Linguagens:** <kbd>PHP</kbd> <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>C</kbd> <kbd>Rust</kbd>
-*   **♖ Bancos de Dados:** <kbd>Oracle DB</kbd> <kbd>SQLite</kbd>
-*   **♗ Ecossistema:** <kbd>TOTVS Protheus</kbd> (<kbd>ADVPL</kbd>, <kbd>TLPP</kbd>)
-*   **♙ Ambiente & Ferramentas:** `Arch Linux` | `Neovim` | `Docker` | `Git`
-
-## ♛ Interesses e Estudos Atuais
-
-*  Web3, Blockchain e Criptografia
-*  Desenvolvimento de Sistemas Operacionais e Kernel
-*  Sistemas Embarcados e Microcontroladores (ESP32)
-
+/*!
+ * @brief
+ *  about me
+ *
+ * @role
+ *  desenvolvedor de software corporativo
+ *
+ * @history
+ *  5 anos de exp. | análise e desenvolvimento de sistemas
+ *
+ * @focus
+ *  arquitetura interna de sistemas e linguagens & tecnologias descentralizadas
+ *
+ * @like
+ *  os dev, kernel, sistemas embarcados (esp32), web3, criptografia
+ *
+ * @stack
+ *  c, rust, python, php, javascript, sql (oracle db, sqlite), advpl/tlpp
+ *
+ * @env
+ *  arch linux, neovim, docker, git
+ */
