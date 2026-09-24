@@ -4,16 +4,16 @@
  *  about me
  *
  * @role
- *  desenvolvedor de software corporativo
+ *  enterprise software developer
  *
  * @history
- *  5 anos de exp. | análise e desenvolvimento de sistemas
+ *  5 years of exp. | systems analysis and development
  *
  * @focus
- *  arquitetura interna de sistemas e linguagens & tecnologias descentralizadas
+ *  internal systems and language architecture & decentralized technologies
  *
  * @like
- *  os dev, kernel, sistemas embarcados (esp32), web3, blockchain e criptografia
+ *  os dev, kernel, embedded systems (esp32), web3, blockchain & cryptography
  *
  * @stack
  *  c, rust, python, php, javascript, sql (oracle db, sqlite), advpl/tlpp
@@ -21,7 +21,6 @@
  * @env
  *  arch linux, neovim, docker, git
  */
-
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣲⣶⠒⠷⠶⠤⠴⠦⠤⠤⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣴⣶⠚⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
